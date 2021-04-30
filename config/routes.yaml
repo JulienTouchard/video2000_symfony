@@ -1,0 +1,3 @@
+#index:
+#    path: \film
+#    controller: App\Controller\FilmController::film_index
